@@ -41,7 +41,7 @@ El proyecto incluye:
 2. Un cliente SQL (por ejemplo, pgAdmin o la terminal de PostgreSQL).  
 3. Clonar o descargar este repositorio en tu máquina local:  
    ```bash
-   git clone https://github.com/tu_usuario/nombre_del_repositorio.git
+   git clone https://github.com/JAlexCastro/Gesti-nInventarioSQL.git
    ```  
 
 ---
